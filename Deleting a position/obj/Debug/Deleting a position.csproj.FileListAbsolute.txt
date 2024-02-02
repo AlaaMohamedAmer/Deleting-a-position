@@ -1,0 +1,7 @@
+C:\Users\ahmed\Desktop\Data structure\Deleting a position\Deleting a position\bin\Debug\Deleting a position.exe.config
+C:\Users\ahmed\Desktop\Data structure\Deleting a position\Deleting a position\bin\Debug\Deleting a position.exe
+C:\Users\ahmed\Desktop\Data structure\Deleting a position\Deleting a position\bin\Debug\Deleting a position.pdb
+C:\Users\ahmed\Desktop\Data structure\Deleting a position\Deleting a position\obj\Debug\Deleting a position.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Data structure\Deleting a position\Deleting a position\obj\Debug\Deleting a position.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Data structure\Deleting a position\Deleting a position\obj\Debug\Deleting a position.exe
+C:\Users\ahmed\Desktop\Data structure\Deleting a position\Deleting a position\obj\Debug\Deleting a position.pdb
